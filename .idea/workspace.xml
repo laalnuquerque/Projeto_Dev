@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c8b90aa-0a33-4a9b-853a-1bfadc7c2fd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/img/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Pagination/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Pagination/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/img/star-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/img/star-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/img/star-half.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/MovieCard/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/MovieScore/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/MovieScore/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/MovieStars/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/MovieStars/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/pages/Listing/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/Listing/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641923429169</updated>
       <workItem from="1641923430826" duration="343000" />
-      <workItem from="1641923903874" duration="6454000" />
+      <workItem from="1641923903874" duration="6777000" />
     </task>
     <servers />
   </component>
